@@ -4,6 +4,12 @@ El proyecto se encuentra realizado en next.js asi que el comando de inicio es:
         - npm run dev ( Node.js version >= v18.17.0 is required.)
 
 ### Crear tablas Mysql
+Cambiar datos para la conexion a la BDD en: lib/db.js
+  {host: 'localhost',
+  user: 'root',
+  password: '',
+  database: 'peliculas'}
+
 
 Codigo para crear la Base de Datos
 
