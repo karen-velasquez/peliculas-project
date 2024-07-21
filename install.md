@@ -7,6 +7,10 @@ El proyecto se encuentra realizado en next.js asi que el comando de inicio es:
 
 Codigo para crear la Base de Datos
 
+El usuario para ingresar es:
+     User: Karen
+     Password: Karen
+
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
