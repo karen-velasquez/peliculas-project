@@ -1,7 +1,7 @@
 ## Inicializar el proyecto
 
 El proyecto se encuentra realizado en next.js asi que el comando de inicio es:
-        - npm run dev
+        - npm run dev ( Node.js version >= v18.17.0 is required.)
 
 ### Crear tablas Mysql
 
